@@ -3,7 +3,7 @@ public class Steps {
         System.out.println("Volg de stappen: ");
     }
     public void preHeatOven(){
-        System.out.println("Verwarm de oven van te voren op 170 graden Celsius (boven en onderwarmte)");
+        System.out.println("Verwarm nu de oven van te voren op 170 graden Celsius (boven en onderwarmte)");
     }
     public void divideEgg(){
         System.out.println("Klop het ei los en verdeel deze in twee delen. De ene helft is voor het deeg, het andere deel is voor het bestrijken van de appeltaart.");
